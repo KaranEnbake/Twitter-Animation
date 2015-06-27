@@ -1,0 +1,24 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+.idea/
+
+# Local configuration file (sdk path, etc)
+local.properties
+project.properties
+.classpath
+.settings/*
+
+#constant file
+GnApp/src/com/enbake/gn/aws/Constants.java
